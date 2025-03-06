@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaComida</string>
+    <string name="desayuno">Desayunos</string>
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="pizza">Pizzas</string>
+    <string name="postre">Postres</string>
+    <string name="pozole">Pozole</string>
+    <string name="tacos">Orden de tacos</string>
+</resources>
